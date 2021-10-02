@@ -1,0 +1,34 @@
+{
+    "packName": "KUHXBOT",
+    "reason": "Sedang Sibuk",
+    "authName": "@ramadhankukuh",
+    "handler": "./index.js",
+    "session": "./rimuru/session/session.json",
+    "numberNon": "12816245470",
+    "botNumberNon": "6281548716351",
+    "ownerNumber": [
+        "12816245470@s.whatsapp.net",
+        "6281548716351@s.whatsapp.net"
+    ],
+   "ownerTunggal": "12816245470@s.whatsapp.net",
+   "style" : {
+   "satu":"•",
+   "dua":"⎙"
+   },
+   "this": {
+   "ponsel": "ponsel",
+   "compossing": "```",
+   "shp": "⬡",
+   "bulat": "⭕", 
+   "silang": "❌", 
+   "panah": "👈",
+   "undefined": "-",
+   "version": {
+   "bot": "v 19. 3. 6",
+   "baileys" : "v 3.5.2"
+   }
+     },
+   "ownernama": "KUKUH",
+   "revokedd": "6281548716351-1629287518@g.us",
+   "codeinvit": "GwKUfekosIxLjsLgj9G0WF"
+     }
